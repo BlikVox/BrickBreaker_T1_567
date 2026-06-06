@@ -400,3 +400,5 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 BrickBreaker_T1_234/App/BrickBreaker_T1_234(debug).exe
+BrickBreaker_T1_567/App/AS_DEBUG/stats.txt
+BrickBreaker_T1_567/App/BrickBreaker_T1_567(debug).exe
